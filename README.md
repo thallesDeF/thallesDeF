@@ -7,7 +7,7 @@
 - Utilizo Python para a automação de processos que envolvem manipulação de dados e consumo de API's.
 - Tenho amplo conhecimento em bancos de dados relacionais MySQL e PostgreSQL, tanto na criação de modelos Entidade Relacionamento
   quanto na administração usando a linguagem SQL.
-- Atualmente estou focado em estudar o framework ReactJS buscando me tornar um desenvolvedor Full Stack. Também pretendo focar posteriormente nas áreas
+- Atualmente estou focado em estudar a biblioteca ReactJS buscando me tornar um desenvolvedor Full Stack. Também pretendo focar posteriormente nas áreas
   de Análise de Dados e Business Inteligence. 
 
 
